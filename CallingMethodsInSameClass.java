@@ -13,7 +13,7 @@ public class CallingMethodsInSameClass
 	}
 
 	public static void printOne() {
-		System.out.println("Hello World");
+		System.out.println("System Demo");
 	}
 
 	public static void printTwo() {
